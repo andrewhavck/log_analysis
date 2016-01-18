@@ -3,7 +3,7 @@ This project analyzes HTTP logs and provides statistics on session information
 ##Installation
 1. `pip install virtualenv`
 2. `virtualenv env`
-3. `source venv/bin/activate`
+3. `source env/bin/activate`
 4. `pip install -Ur requirements.txt`
 5. `py.test`
 
