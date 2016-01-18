@@ -1,0 +1,4 @@
+pytest
+bokeh
+pandas
+-e git+https://github.com/vesln/robber.py.git#egg=robber
