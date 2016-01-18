@@ -3,5 +3,4 @@ env
 __pycache__
 .cache
 src
-*.tsv
 *.html
